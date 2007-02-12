@@ -1,5 +1,5 @@
 Summary:	Run a process unable to create childs
-Summary(pl):	Uruchamianie procesu bez moøliwo∂ci tworzenia potomkÛw
+Summary(pl.UTF-8):   Uruchamianie procesu bez mo≈ºliwo≈õci tworzenia potomk√≥w
 Name:		noexec
 Version:	1.1.0
 Release:	0.1
@@ -17,10 +17,10 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 You want to run a process which will be unable to create a child (for
 example you want run less via sudo and disable escaping to the shell).
 
-%description -l pl
-Ten program pozwala na uruchomienie procesu bez moøliwo∂ci tworzenia
-potomkÛw (na przyk≥ad øeby uruchomiÊ less przez sudo bez moøliwo∂ci
-wyskoczenia do pow≥oki).
+%description -l pl.UTF-8
+Ten program pozwala na uruchomienie procesu bez mo≈ºliwo≈õci tworzenia
+potomk√≥w (na przyk≈Çad ≈ºeby uruchomiƒá less przez sudo bez mo≈ºliwo≈õci
+wyskoczenia do pow≈Çoki).
 
 %prep
 %setup -q
