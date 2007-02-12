@@ -1,5 +1,5 @@
 Summary:	Run a process unable to create childs
-Summary(pl.UTF-8):   Uruchamianie procesu bez możliwości tworzenia potomków
+Summary(pl.UTF-8):	Uruchamianie procesu bez możliwości tworzenia potomków
 Name:		noexec
 Version:	1.1.0
 Release:	0.1
